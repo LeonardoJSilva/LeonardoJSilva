@@ -35,4 +35,4 @@
                                                                                                                                                                                                                           
 ## Contatos
 <a href="https://www.linkedin.com/in/crisbraatz/?locale=en_US"><img src="png/social/linkedin@3x.png" style="vertical-align:top; margin:6px 4px" width="115"/></a>
-<a href="mailto:leonardojsilva01@gmail.com"><img src="png/social/gmail@3x.png" style="vertical-align:top; margin:6px 4px" width="95"/></a>
+<a href="mailto:leonardojsilva01@gmail.com"><img src="png/social/gmail@3x.png" style="vertical-align:top; margin:6px 4px" width="96"/></a>
