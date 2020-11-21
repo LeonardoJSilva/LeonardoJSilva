@@ -26,10 +26,10 @@
     <img src="png/dev/services/kubernetes@3x.png" alt="kubernetes" style="vertical-align:top; margin:6px 4px" width="132>
   </a>  
   <a href="#">
-    <img src="png/dev/services/azure@3x.png" alt="azure" style="vertical-align:top; margin:6px 4px" width="96">
+    <img src="png/dev/services/azure@3x.png" alt="azure" style="vertical-align:top; margin:6px 4px" width="98">
   </a>  
   <a href="#">
-    <img src="png/dev/tools/docker@3x.png" alt="docker" style="vertical-align:top; margin:6px 4px" width="103">
+    <img src="png/dev/tools/docker@3x.png" alt="docker" style="vertical-align:top; margin:6px 4px" width="105">
   </a> 
 <div>
                                                                                                                                                                                                                           
